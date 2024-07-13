@@ -1,6 +1,6 @@
 # MK Project
 
-Simple demonstration for [Monkie Kid's](https://en.wikipedia.org/wiki/Lego_Monkie_Kid) project.
+Simple demonstration on how to run the Knowie AI project.
 
 ## Usage
 
